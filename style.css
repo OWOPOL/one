@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+html {
+	height: 100%;
+}
+
+h1 {
+	color: teal;
+	font-size: 200px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	text-align: center;
+}
+
+h2	{
+	color: teal;
+	font-size: 100px;
+	font-family: sans-serif;
+}
+
+h3 {
+	color: black;
+	font-size: 50px;
+	font-family: helvetica;
+	position: center;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	position: center;
+}
+
+.fixed-text {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+h1 {
+  white-space: nowrap;
+  font-size: 200px;
+  font-weight: bold;
+}
+
+span {
+  display: inline-block;
+  text-indent: -20px;
+}
